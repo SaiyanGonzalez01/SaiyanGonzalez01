@@ -6,11 +6,11 @@ Contact me here: SaiyanGonz@outlook.com
 
 Project Info:
 Finished:
-NCC Vol.1
-Minecraft Old-School Classic
-Minecraft 1.5.2 SP
+NCC Vol.1,
+Minecraft Old-School Classic,
+Minecraft 1.5.2 SP,
 Human Addon
 
 Working On:
-Minecraft Old-School
+Minecraft Old-School,
 OS Website
