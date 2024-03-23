@@ -4,13 +4,13 @@ My name is Saiyan, and im the creator of Minecraft Old School! Im a Eaglercraft/
 
 Contact me here: SaiyanGonz@outlook.com
 
-Project Info:
-Finished:
+### Project Info:
+### Finished:
 NCC Vol.1,
 Minecraft Old-School Classic,
 Minecraft 1.5.2 SP,
 Human Addon
 
-Working On:
+### Working On:
 Minecraft Old-School,
 OS Website
