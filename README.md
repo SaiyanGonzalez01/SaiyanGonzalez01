@@ -2,7 +2,7 @@
 
 You might know me from r/eaglercraft, but if not, here is where I make mostly Eaglercraft Mods and other projects.
 
-Some projects/websites you might want to check out:
+Some of my projects/websites you might want to check out:
 
 ![osicon](https://github.com/user-attachments/assets/4e84704e-e7fa-4dd6-b7a7-f5830322e48d)
 [Minecraft Old-School RD](https://github.com/SaiyanGonzalez01/Minecraft-Old-School-ReDefault): An extension mod of Eaglercraft 1.7.3 that adds new features to your game!
