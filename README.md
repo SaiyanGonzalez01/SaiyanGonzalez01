@@ -4,6 +4,9 @@ You might know me from r/eaglercraft, but if not, here is where I make mostly Ea
 
 Some of my projects/websites you might want to check out:
 
+![lapidicon](https://github.com/user-attachments/assets/d869281b-d426-4ae4-b99e-748b30ecf323)
+[The Lapid Clinic](https://saiyangonzalez01.github.io/TheLapidClinic/index.html): A hub for all my published games and demos!
+
 ![osicon](https://github.com/user-attachments/assets/4e84704e-e7fa-4dd6-b7a7-f5830322e48d)
 [Minecraft Old-School RD](https://github.com/SaiyanGonzalez01/Minecraft-Old-School-ReDefault): An extension mod of Eaglercraft 1.7.3 that adds new features to your game!
 
