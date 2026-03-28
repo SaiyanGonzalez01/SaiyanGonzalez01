@@ -11,7 +11,7 @@ Some of my projects/websites you might want to check out:
 [Minecraft Old-School RD](https://github.com/SaiyanGonzalez01/Minecraft-Old-School-ReDefault): An extension mod of Eaglercraft 1.7.3 that adds new features to your game!
 
 ![eg1,5icon](https://github.com/user-attachments/assets/9dbe2cad-7619-4aa6-afd0-273e582dd0cd)
-[Eaglercraft 1.5.2](https://saiyangonzalez01.github.io/Eaglercraft-SP-101/): The original version of Eaglercraft that started it all!
+[Minecraft Rubystoned](https://github.com/SaiyanGonzalez01/Minecraft-Rubystoned): The spritual successor to Old-School!
 
 ### Support Me!
 
