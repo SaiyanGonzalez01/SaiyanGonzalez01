@@ -13,10 +13,4 @@ Some of my projects/websites you might want to check out:
 ![eg1,5icon](https://github.com/user-attachments/assets/9dbe2cad-7619-4aa6-afd0-273e582dd0cd)
 [Minecraft Rubystoned](https://github.com/SaiyanGonzalez01/Minecraft-Rubystoned): The spritual successor to Old-School!
 
-### Support Me!
-
-If your a returning viewer and like my projects, if you can, please donate on Kofi! I would appreciate it alot!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q518YVQB)
-
 
