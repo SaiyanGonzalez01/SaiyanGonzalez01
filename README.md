@@ -1,4 +1,4 @@
-### Hey There! Welcome to my Github Account!
+### Hey There!
 
 You might know me from r/eaglercraft, but if not, here is where I make mostly Eaglercraft Mods and other projects.
 
